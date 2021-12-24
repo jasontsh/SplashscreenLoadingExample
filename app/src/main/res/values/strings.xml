@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadingExample</string>
+    <string name="fail_text">Failed loading</string>
+</resources>
